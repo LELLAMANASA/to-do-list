@@ -1,0 +1,6 @@
+{
+  "name": "Study Assistant",
+  "description": "An intelligent student productivity platform featuring an AI Study Planner, Pomodoro focus cycles, course attendance tracking, assignment milestones, and AI-powered task breakdowns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
