@@ -1,6 +1,6 @@
 {
-  "name": "Study Assistant",
-  "description": "An intelligent student productivity platform featuring an AI Study Planner, Pomodoro focus cycles, course attendance tracking, assignment milestones, and AI-powered task breakdowns.",
-  "requestFramePermissions": [],
+  "name": "Student Productivity Assistant",
+  "description": "An ultra-modern, aesthetic Student Productivity & To-Do Suite featuring an Advanced Task Manager, a circular Pomodoro Timer, interactive attendance tracking, interactive monthly calendar, progress dashboards, and smart simulated AI help.",
+  "requestFramePermissions": ["camera", "microphone"],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
